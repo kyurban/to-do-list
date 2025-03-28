@@ -10,7 +10,7 @@ A simple to-do list built using HTML, CSS, and JavaScript with local storage fun
 - **Mark as Completed**: Mark tasks as completed once done.
 - **Local Storage**: Tasks are saved even after the app is closed.
 
-## To Open The Project
+## Setup
 
 1. **Clone the repository** (or download the project files).
    ```bash
